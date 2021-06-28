@@ -1,4 +1,4 @@
-# Adventure Works
+# Adventure Works Data Analysis
 
 This is the Maven Analytics course project I have practiced.
 
